@@ -27,7 +27,7 @@ Attribute Information:
 
 • Snowfall - cm
 
-• Seasons - Winter, Spring, Summer, Autumn Holiday - Holiday/No holiday
+• Seasons - Winter, Spring, Summer, Autumn Holiday - Holiday/No holiday.
 
 • Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
 
